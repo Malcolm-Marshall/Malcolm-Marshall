@@ -6,5 +6,5 @@
 - Searching for a developer role
 - How to reach me: 
     - m.marshall369@gmail.com
-    - [linkedin]: https://www.linkedin.com/in/malcolm-marshall/
+    - [linkedin](https://www.linkedin.com/in/malcolm-marshall/)
 
